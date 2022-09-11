@@ -1,4 +1,3 @@
-#jonathan
 from datetime import datetime
 from io import open
 
